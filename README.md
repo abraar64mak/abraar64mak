@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abraarkhan-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://abraar64mak.github.io/Abraar_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abraar-khan-ali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
