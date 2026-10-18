@@ -32,7 +32,7 @@ Turns messy business documents into clean, structured data. Transformers for ext
 A LeetCode-style judge that runs untrusted code in isolated containers, with Kafka queuing submissions behind the scenes.
 > Docker · Kafka · PostgreSQL · GitHub Actions
 
-**🫀 [ECG Fiducial Point Detection](https://github.com/abraar64mak/ECG-FUDICIAL-POINT-DETECTION)**
+**🫀 [Beatnet](https://github.com/abraar64mak/Beatnet)**
 Finds the exact start, peak, and end of every P, QRS, and T wave in a heartbeat, the landmarks cardiologists measure by hand. Built with a 1D U-Net and a TCN bottleneck, trained on LUDB and PTB-XL.
 > 1D U-Net · TCN · ONNX · 42% faster inference
 
