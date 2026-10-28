@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/abraar-khan-ali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/abraar64mak?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Reno%2C%20NV%20(open%20to%20relocate)-2ea44f?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=abraar64mak&label=Profile+views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -198,18 +197,6 @@ Two papers, both **Best Paper Award** winners:
 
 - **University of Florida** — M.S., Artificial Intelligence Systems (Aug 2024 – May 2026)
 - **Anna University, India** — Bachelors in Artificial Intelligence &amp; Machine Learning (Jun 2020 – May 2024)
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abraar64mak&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraar64mak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abraar64mak&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
